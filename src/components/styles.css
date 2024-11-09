@@ -1,0 +1,13 @@
+
+@media screen and (max-width:800px){
+  .mySwiper img{
+    width: 100%;
+    
+  }
+  .Swiper{
+    height: 400px;;
+    
+  }
+
+  
+}     

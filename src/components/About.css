@@ -1,0 +1,80 @@
+.blog-header {
+    text-align: center;
+    padding: 20px;
+    background-color: #f8f8f8;
+    
+    }
+    
+    .blog-content {
+    display: flex;
+    padding: 20px;
+    background-color: azure;
+
+    }
+    .blog-post{
+    margin: 2rem;
+    
+    }
+    .blog-posts {
+    flex: 2;
+    margin-right: 2rem;
+    
+    }
+    
+    .sidebar {
+    flex: 1;
+    }
+    .search-bar{
+    padding: 1rem;
+    }
+    .categories h3{
+    font-size: larger;
+    padding: 0.5rem;
+    }
+    .categories ul{
+    display: flex;
+    flex-direction: column;
+    gap: 0.3rem;
+    cursor: pointer;
+    padding-left: 1rem;
+    }
+    .recent-posts h3{
+    font-size: larger;
+    padding: 0.5rem;
+    }
+    .recent-posts ul{
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    padding-left: 1rem;
+    cursor: pointer;
+    }
+    .footer {
+    text-align: center;
+    padding: 20px;
+    background: #f8f8f8;
+    }
+    
+    .post-image {
+    width: 300px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 8px;
+    }
+    
+    
+    .pagination button {
+    margin: 5px;
+    padding: 8px 12px;
+    }
+    
+    .search-bar input {
+    padding: 8px;
+    width: 80%;
+    }
+    
+    .search-bar button {
+    padding: 8px;
+    }
+    
+    
